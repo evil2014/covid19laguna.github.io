@@ -1,0 +1,64 @@
+/*
+ * COVID-19 Laguna
+ *
+ * CSS Business Frontpage
+
+
+HEX: #eaece5
+
+HEX: #b2c2bf
+
+HEX: #c0ded9
+
+HEX: #3b3a30
+
+ */
+
+/* Global */
+body       { font-family: 'Roboto', sans-serif; }
+h1,
+h2,
+h3         { font-family: 'Open Sans', serif; }
+h4,
+h5,
+h6         { font-family: 'Open Sans', serif; }
+blockquote { font-family: 'Open Sans', serif; padding: 1.2em; font-size: 1.4em; }
+main       { min-height: 800px; }
+article    { min-height: 800px; }
+
+/* Heading */
+header      { background-color: #265ca3; color: #ffffff; }
+
+/* Start page */
+#bienvenida { background-color: #eaece5; }
+#destacados { background-color: #ffffff; }
+#enlaces    { background-color: #c0ded9; }
+
+/* Footer */
+footer      { background-color: #3b3a30; color: #bbbbbb; }
+
+/* Responsive */
+@media only screen and (max-width: 990px) {
+	body { font-size: 0.9em; }
+	h1 { font-size: 2.6em; margin-bottom: 0.4em; }
+	h2 { font-size: 2.0em; margin-bottom: 0.4em; }
+	h3 { font-size: 1.5em; margin-bottom: 0.4em; }
+	h4 { font-size: 1.2em; margin-bottom: 0.4em; }
+	.display-4 { font-size: 2.6em; }
+}
+@media only screen and (max-width: 580px) {
+	body { font-size: 0.8em; }
+	h1 { font-size: 2.2em; margin-bottom: 0.3em; }
+	h2 { font-size: 1.8em; margin-bottom: 0.3em; }
+	h3 { font-size: 1.4em; margin-bottom: 0.3em; }
+	h4 { font-size: 1.1em; margin-bottom: 0.3em; }
+	.display-4 { font-size: 2.2em; }
+}
+@media only screen and (max-width: 300px) {
+	body { font-size: 0.7em; }
+	h1 { font-size: 1.8em; margin-bottom: 0.2em; }
+	h2 { font-size: 1.6em; margin-bottom: 0.2em; }
+	h3 { font-size: 1.4em; margin-bottom: 0.2em; }
+	h4 { font-size: 1.2em; margin-bottom: 0.2em; }
+	.display-4 { font-size: 1.8em; }
+}
