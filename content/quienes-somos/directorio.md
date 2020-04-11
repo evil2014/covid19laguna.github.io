@@ -7,6 +7,5 @@ Category: Quienes Somos
 
 Pendiente de escribir el directorio.
 
-Alex Pineda - Python Dev
-
-Guillermo Valdes - PHP Dev
+* Alex Pineda - Python Dev
+* Guillermo Valdes - Python & PHP Dev
