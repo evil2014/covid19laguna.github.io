@@ -3,11 +3,11 @@ Slug: 2020-04-11-segundo-comunicado
 Date: 2020-04-11
 Category: Comunicados
 
-# Reporte Oficial
+Reporte Oficial
 
-## 11 04 20
+11/04/2020
 
-## 12:00 hrs
+12:00 hrs
 
 # REPORTE COAHUILA DEL PLAN ESTATAL DE PREVENCIÓN Y CONTROL COVID-19
 
