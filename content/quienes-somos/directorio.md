@@ -8,3 +8,4 @@ Category: Quienes Somos
 Pendiente de escribir el directorio.
 
 Alex Pineda - Python Dev
+Guillermo Valdes - PHP Dev
