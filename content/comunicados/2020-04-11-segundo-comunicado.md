@@ -9,9 +9,9 @@ Reporte Oficial
 
 12:00 hrs
 
-# REPORTE COAHUILA DEL PLAN ESTATAL DE PREVENCIÓN Y CONTROL COVID-19
+REPORTE COAHUILA DEL PLAN ESTATAL DE PREVENCIÓN Y CONTROL COVID-19
 
-## Actualización de las 12:00 horas
+- Actualización de las 12:00 horas
 
 Saltillo, Coahuila de Zaragoza; a 11 de Abril del 2020.- Con motivo de mantener a la población informada de los principales avances del Plan Estatal de Prevención y Control COVID-19, la Secretaría de Salud de Coahuila (SS) informa:
 
