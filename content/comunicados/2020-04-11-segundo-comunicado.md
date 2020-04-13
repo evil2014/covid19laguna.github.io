@@ -32,24 +32,25 @@ DISTRIBUCIÓN DE LOS 7 CASOS:
 
 
 
-| Municipio           || Casos de COVID2019 |
-| ------------------- || ------------------ |
-| Monclova            || 90                 |
-| Torreón             || 21                 |
-| Saltillo            || 22                 |
-| Piedras Negras      || 14                 |
-| Acuña               || 1                  |
-| San Juan de Sabinas || 1                  |
-| Sacramento          || 2                  |
-| Matamores           || 3                  |
-| Frontera            || 3                  |
-| San Buenaventura    || 1                  |
-| Castaños            || 2                  |
-| Ramos Arispe        || 2                  |
+| Municipio           |   | Casos de COVID2019 |
+| ------------------- |---| ------------------ |
+| Monclova            |   | 90                 |
+| Torreón             |   | 21                 |
+| Saltillo            |   | 22                 |
+| Piedras Negras      |   | 14                 |
+| Acuña               |   | 1                  |
+| San Juan de Sabinas |   | 1                  |
+| Sacramento          |   | 2                  |
+| Matamores           |   | 3                  |
+| Frontera            |   | 3                  |
+| San Buenaventura    |   | 1                  |
+| Castaños            |   | 2                  |
+| Ramos Arispe        |   | 2                  |
 
 
 
----
+___
+
 ```
 Hospitalizados:
 2 Monclova
@@ -72,6 +73,8 @@ Decesos:
 1 San Juan de Sabinas
 1 Matamoros
 ```
+___ 
+
 ##### 3.- El Gobierno de Coahuila recuerda a las familias la importancia de resguardarse en casa.
 
 **NO SALIR**, solo si es estrictamente necesario.
