@@ -3,13 +3,6 @@ Slug: 2020-04-11-segundo-comunicado
 Date: 2020-04-11
 Category: Comunicados
 
-### Reporte Oficial 
-
-11/04/2020
-
-12:00 hrs
-
-
 #### REPORTE COAHUILA DEL PLAN ESTATAL DE PREVENCIÓN Y CONTROL COVID-19 
  
 - Actualización de las 12:00 horas
@@ -39,21 +32,24 @@ DISTRIBUCIÓN DE LOS 7 CASOS:
 
 
 
-| Municipio           | Casos de COVID2019 |
-| ------------------- | ------------------ |
-| Monclova            | 90                 |
-| Torreón             | 21                 |
-| Saltillo            | 22                 |
-| Piedras Negras      | 14                 |
-| Acuña               | 1                  |
-| San Juan de Sabinas | 1                  |
-| Sacramento          | 2                  |
-| Matamores           | 3                  |
-| Frontera            | 3                  |
-| San Buenaventura    | 1                  |
-| Castaños            | 2                  |
-| Ramos Arispe        | 2                  |
+| Municipio           || Casos de COVID2019 |
+| ------------------- || ------------------ |
+| Monclova            || 90                 |
+| Torreón             || 21                 |
+| Saltillo            || 22                 |
+| Piedras Negras      || 14                 |
+| Acuña               || 1                  |
+| San Juan de Sabinas || 1                  |
+| Sacramento          || 2                  |
+| Matamores           || 3                  |
+| Frontera            || 3                  |
+| San Buenaventura    || 1                  |
+| Castaños            || 2                  |
+| Ramos Arispe        || 2                  |
 
+
+
+---
 ```
 Hospitalizados:
 2 Monclova
