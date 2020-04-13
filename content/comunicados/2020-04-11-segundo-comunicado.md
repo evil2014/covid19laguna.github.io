@@ -4,7 +4,7 @@ Date: 2020-04-11
 Category: Comunicados
 
 #### REPORTE COAHUILA DEL PLAN ESTATAL DE PREVENCIÓN Y CONTROL COVID-19 
- 
+- Día 11 de abril 2020 
 - Actualización de las 12:00 horas
 
 Saltillo, Coahuila de Zaragoza; a 11 de Abril del 2020.- Con motivo de mantener a la población informada de los principales avances del Plan Estatal de Prevención y Control COVID-19, la Secretaría de Salud de Coahuila (SS) informa:
