@@ -21,14 +21,16 @@ Saltillo, Coahuila de Zaragoza; a 11 de Abril del 2020.- Con motivo de mantener 
 DISTRIBUCIÓN DE LOS 7 CASOS:
 
 + Monclova
-    + Hombre de 24 años
+	+ Hombre de 24 años
     + Mujer de 28 años
     + Mujer de 34 años
     + Mujer de 46 años
     + Hombre de 30 años
 
+
 + Piedras Negras
     + Hombre de 44 años
+
 
 + Frontera
     + Hombre de 39 años
@@ -52,28 +54,28 @@ DISTRIBUCIÓN DE LOS 7 CASOS:
 | Castaños            | 2                  |
 | Ramos Arispe        | 2                  |
 
-:::warning
+```
 Hospitalizados:
 2 Monclova
 4 Torreón
 1 Saltillo
-:::
+```
 
-:::success
+```
 Alta:
 1 Torreón
 3 Saltillo
 4 Monclova  
-:::
+```
 
-:::danger
+```
 Decesos:
 1 Acuña
 9 Monclova
 1 Sacramento
 1 San Juan de Sabinas
 1 Matamoros
-:::
+```
 ##### 3.- El Gobierno de Coahuila recuerda a las familias la importancia de resguardarse en casa.
 
 **NO SALIR**, solo si es estrictamente necesario.
